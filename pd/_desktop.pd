@@ -1,0 +1,3 @@
+#N canvas 734 288 248 113 10;
+#X obj 26 57 u_samplebank2 a_stereo_sample;
+#X obj 26 37 u_samplebank a_mono_sample;

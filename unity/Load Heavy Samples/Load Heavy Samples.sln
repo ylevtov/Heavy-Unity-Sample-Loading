@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{19539AC4-2088-1115-2846-F580A04E2F4C}") = "Load Heavy Samples", "Assembly-CSharp-firstpass.csproj", "{097178E8-5FD7-D77F-CA27-D2C2BE21590A}"
+EndProject
+Project("{19539AC4-2088-1115-2846-F580A04E2F4C}") = "Load Heavy Samples", "Assembly-CSharp.csproj", "{34F90729-19A4-F9BB-BCD3-CB1A5FDEC436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097178E8-5FD7-D77F-CA27-D2C2BE21590A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097178E8-5FD7-D77F-CA27-D2C2BE21590A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097178E8-5FD7-D77F-CA27-D2C2BE21590A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097178E8-5FD7-D77F-CA27-D2C2BE21590A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F90729-19A4-F9BB-BCD3-CB1A5FDEC436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F90729-19A4-F9BB-BCD3-CB1A5FDEC436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F90729-19A4-F9BB-BCD3-CB1A5FDEC436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F90729-19A4-F9BB-BCD3-CB1A5FDEC436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

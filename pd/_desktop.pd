@@ -1,3 +1,6 @@
-#N canvas 734 288 248 113 10;
-#X obj 26 57 u_samplebank2 a_stereo_sample;
-#X obj 26 37 u_samplebank a_mono_sample;
+#N canvas 734 288 400 160 10;
+#X obj 30 89 u_samplebank2 a_stereo_sample;
+#X obj 30 69 u_samplebank a_mono_sample;
+#X text 28 22 Only load this patch if we're patching on desktop.;
+#X text 28 41 It loads the samples into the same tables as Unity will
+;
